@@ -10,3 +10,5 @@
 
 - 2021-09-05 부터 매주 일요일 오전 10시
 
+
+https://www.notion.so/d8cdaeee7d2f4da4b15a667c3e3c59b1
