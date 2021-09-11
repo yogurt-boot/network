@@ -32,8 +32,8 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
   
 <details>
    <summary> Answer </summary>
-   #더 찾아볼게요...
-   stateless : 무상태. 서버가 클라이언트의 상태를 유지하지 않음. http 프로토콜은 stateless
+   #더 찾아볼게요... <br />
+   stateless : 무상태. 서버가 클라이언트의 상태를 유지하지 않음. http 프로토콜은 stateless <br />
    stateful : 상태 유지. 서버 부하가 크다?
 <br />
    
@@ -53,7 +53,7 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
-   Request Message : HTTP Method, 헤더, query string 이나 body
+   Request Message : HTTP Method, 헤더, query string 이나 body <br />
    Response Message : HTTP status, message, body, 헤더(쿠키 등)
 <br />
    
@@ -63,8 +63,8 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
-   #더 찾아볼게요...
-   http는 작은 파일을 여러번 보낼때 유리.
+   #더 찾아볼게요... <br />
+   http는 작은 파일을 여러번 보낼때 유리. <br />
    ftp는 큰 단일 파일을 보낼때 유리.
 <br />
    
