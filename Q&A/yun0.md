@@ -24,6 +24,7 @@
 <br />
    심플한 인터페이스를 설계하기 위한 아키텍처이다. HTTP와 잘 어울리고, 유연성이 높은 방식이다. 그래서 특히 MSA에서는 대부분 REST API를 도입한다.
    Uniform Interface, Stateless, Cacheable, Self-descriptiveness, Layered System, Server-Client 구조 등을 특징으로 꼽을 수 있다.
+   HTTP 상의 REST API는 URI로 자원을 나타내고, Method로 자원에 대한 행위를 표현한다.
 </details>
    
 
