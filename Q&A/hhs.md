@@ -22,6 +22,7 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
    
 <details>
    <summary> Answer </summary>
+   REpresentational State Transfer. 표현적 상태 전달. URI에 자원을 명시하고 HTTP Method를 통해 해당 자원에 대해 어떤 행위를 할 것인지 나타낸다.
 <br />
    
 </details>
@@ -31,6 +32,9 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
   
 <details>
    <summary> Answer </summary>
+   #더 찾아볼게요...
+   stateless : 무상태. 서버가 클라이언트의 상태를 유지하지 않음. http 프로토콜은 stateless
+   stateful : 상태 유지. 서버 부하가 크다?
 <br />
    
 </details>
@@ -40,6 +44,7 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
+   서버에서 세션id를 Set-cookie 헤더에 넣어 response로 보내면 클라이언트에서는 해당 쿠키값을 기억하고, 이후 request를 보낼 때 자동으로 헤더 쿠키에 값을 넣어서 보낸다.
 <br />
    
 </details>
@@ -48,6 +53,8 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
+   Request Message : HTTP Method, 헤더, query string 이나 body
+   Response Message : HTTP status, message, body, 헤더(쿠키 등)
 <br />
    
 </details>
@@ -56,6 +63,9 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
+   #더 찾아볼게요...
+   http는 작은 파일을 여러번 보낼때 유리.
+   ftp는 큰 단일 파일을 보낼때 유리.
 <br />
    
 </details>
