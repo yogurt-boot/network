@@ -69,6 +69,19 @@
    HTTP는 단방향 프로토콜로 한번의 커넥션으로 하나의 요청->응답을 통해 파일업/다운로드를 수행한다.<br />
 </details>
 
+### HTTP 응답코드에 대해서 설명하세요
 
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
 
+### CORS에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
 
