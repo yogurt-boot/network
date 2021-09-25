@@ -74,6 +74,8 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
+   http 응답코드는 클라이언트가 보낸 요청에 대한 응답 상태를 숫자 + 메세지로 표현한 것이다. 상태 종류에 따라 1xx, 2xx, 3xx, 4xx, 5xx로 표현된다.
+   가장 유명하고 쉽게 볼 수 있는 코드는 404 Not Found 가 있다.
 <br />
    
 </details>
@@ -82,6 +84,10 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
+   교차 출저 리소스 공유 Cross Origin Resource Sharing 의 약자로 서로 다른 Origin 간에 리소스 요청 및 응답이 가능한 정책을 말한다.
+   브라우저는 보안상 기본적으로 SOP 정책을 따르기 때문에 동일한 Origin 내에서만 리소스의 요청 및 응답이 가능하다. 
+   다만 응답 헤더에 Access-Control-Allow-Origin과 요청 쪽 Origin이 포함되어 있다면 CORS가 가능하다. 
+   헤더 값은 서버에서 설정하거나, 프록시 서버를 통해 설정 할 수 있다. 
 <br />
    
 </details>
