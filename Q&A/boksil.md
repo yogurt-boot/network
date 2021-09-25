@@ -62,4 +62,20 @@
    
 </details>
 
+### HTTP 응답코드에 대해서 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### CORS에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
 
