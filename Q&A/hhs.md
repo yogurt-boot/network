@@ -92,4 +92,26 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
    
 </details>
 
+### 웹 캐싱 과정에 대해 설명하세요
 
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### same-origin 과 same-site에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### 
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
