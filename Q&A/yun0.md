@@ -85,3 +85,26 @@
    
 </details>
 
+### 웹 캐싱 과정에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### same-origin 과 same-site에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### XSS에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
