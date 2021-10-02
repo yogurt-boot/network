@@ -90,7 +90,8 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   웹 애플리케이션 서버 앞단에 캐싱 프록시 서버를 추가하여 새로운 리퀘스트가 들어왔을 때 캐시 서버에서 실제 서버의 응답을 캐싱해두고
+다음 번에 같은 리퀘스트가 들어온 경우 웹 애플리케이션 서버에 요청을 보내지 않고 직접 캐시된 응답을 반환한다. 
 </details>
 
 ### same-origin 과 same-site에 대해 설명하세요
@@ -98,7 +99,10 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   same-origin : scheme, host, port가 모두 같음
+   same-site : 서브도메인을 제외하고 TLD와 그 다음 도메인만 같으면 same-site. (example.com)
+
+   same-site는 쿠키 설정 시 공유 기준이 된다. 
 </details>
 
 ### XSS에 대해 설명하세요
@@ -106,5 +110,10 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   사용자 입력 값에 스크립트를 넣어 해당 스크립트를 실행시키는 공격이다. 
+   저장되는 입력 값에 스크립트를 삽입해 지속적으로 공격하는 방식을 Stored XSS라고 하며
+   일회성으로 요청 파라미터에 스크립트를 삽입하는 방식을 Reflected XSS라고 한다. 
+   Reflected XSS는 보통 브라우저에 차단 처리가 되어있다. 
+   사용자 정보 탈취나 브라우저에서 악성 스크립트가 실행되도록 하는 방식이기 때문에 공격대상은 서버보다는 클라이언트가 된다. 
+   CSRF는 사용자가 인증되어있는 상태를 이용해서 서버를 대상으로 공격하는 방식이다. 
 </details>
