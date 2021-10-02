@@ -86,7 +86,8 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   브라우저가 과거에 요청한 적이 있는 리소스를 리퀘스트하는 경우,
+   http header에 담겨있는 cache-control 정책에 따라 리소스를 캐시또는 오리진서버에서 받아옴
 </details>
 
 ### same-origin 과 same-site에 대해 설명하세요
@@ -94,7 +95,8 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   same-origin은 서브도메인, 도메인, 프로토콜, 포트가 전부 같은 것을 의미하고,
+   same-site는 도메인만 같은 것을 의미한다.  
 </details>
 
 ### XSS에 대해 설명하세요
@@ -102,6 +104,8 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   스크립트를 심을 수 있는 웹페이지에 해커가 악의적인 스크립트를 삽입하여 공격하는 기법. 
+   쿠키정보를 탈취하거나 다른 악의적인 사이트로 리다이렉트 시키는 등의 일을 함.
+   쿠키가 탈취된 경우 sessionId를 획득하여 정상적으로 로그인한 유저처럼 행동할 수 있음.
 </details>
 
