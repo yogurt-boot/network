@@ -117,3 +117,19 @@
    사용자 정보 탈취나 브라우저에서 악성 스크립트가 실행되도록 하는 방식이기 때문에 공격대상은 서버보다는 클라이언트가 된다. 
    CSRF는 사용자가 인증되어있는 상태를 이용해서 서버를 대상으로 공격하는 방식이다. 
 </details>
+
+### https와 http차이에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### 2-factor 인증에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
