@@ -109,3 +109,18 @@
    쿠키가 탈취된 경우 sessionId를 획득하여 정상적으로 로그인한 유저처럼 행동할 수 있음.
 </details>
 
+### https와 http차이에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### 2-factor 인증에 대해 설명하세요
+
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
