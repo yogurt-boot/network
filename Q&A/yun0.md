@@ -123,7 +123,7 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   https는 http프로토콜에 HTTP over TLS, HTTP over SSL, HTTP Secure 등의 암호화 처리가 포함된 방식이다. 포트가 80, 443으로 서로 다르다.
 </details>
 
 ### 2-factor 인증에 대해 설명하세요
@@ -131,5 +131,5 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   아이디, 비밀번호 외에 전화번호 인증이나 OTP 등 추가적인 인증을 거치도록 하는 방식이다.
 </details>
