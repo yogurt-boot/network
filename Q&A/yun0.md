@@ -139,3 +139,17 @@
    소유기반(Possession) - 휴대폰 SMS인증, 보안카드, OTP, 공인인증서, 스마트폰, 스마트카드, USB토큰, 기타 하드웨어키 등
    속성기반(Inherence) - 지문인식, 홍채인식, 정맥인식, 얼굴인식 등
 </details>
+
+### Web으로 Server Push를 구현하는 방법에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### Socket.io와 WebSocket의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
