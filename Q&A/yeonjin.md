@@ -122,3 +122,17 @@
 <br />
    
 </details>
+
+### Web으로 Server Push를 구현하는 방법에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
+
+### Socket.io와 WebSocket의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+   
+</details>
