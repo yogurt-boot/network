@@ -63,7 +63,6 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 
 <details>
    <summary> Answer </summary>
-   #더 찾아볼게요... <br />
    http는 작은 파일을 여러번 보낼때 유리. <br />
    ftp는 큰 단일 파일을 보낼때 유리.
 <br />
@@ -141,6 +140,10 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 ### Web으로 Server Push를 구현하는 방법에 대해 설명하세요.
 <details>
    <summary> Answer </summary>
+   완전한 서버푸시는 아니지만 그렇게 보이는 방법(클라이언트에서 리퀘스트 필요) - ajax polling, ajax long polling, comet <br/>
+   리퀘스트 없이 서버 푸시 가능 - SPDY(http2), WebSocket <br/>
+   https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+  
 <br />
    
 </details>
@@ -148,6 +151,12 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 ### Socket.io와 WebSocket의 차이에 대해 설명하세요.
 <details>
    <summary> Answer </summary>
+   WebSocket은 프로토콜이며 웹소켓을 사용하기 위해서는 서버와 클라이언트가 웹소켓을 지원해야 한다. 요즘은 대부분의 브라우저가 웹소켓을 지원하지만 버전이 다를 수 있다.
+   여러 서버 구현체(Jetty, GlassFish, Node.js, Netty, Grizzly 등)가 웹소켓을 지원한다. <br/>
+   반면 Socket.io는 라이브러리로 브라우저 종류에 상관없이 양방향 통신이 가능하다. Socket.io를 사용하면 WebSocket을 지원하지 않은 클라이이언트의 경우 http통신으로 대체한다. <br />
+   ('The client will try to establish a WebSocket connection if possible, and will fall back on HTTP long polling if not.')
+   https://d2.naver.com/helloworld/1336 <br/>
+   https://socket.io/docs/v4/   
 <br />
    
 </details>
