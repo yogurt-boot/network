@@ -129,12 +129,15 @@
 <details>
    <summary> Answer </summary>
 <br />
-   
+   WebSocket프로토콜을 이용하여 구현한다. 기존 http프로토콜은 클라이언트에서 서버로 요청하는 단방향 프로토콜이지만,
+   webSocket프로토콜은 클라이언트의 요청 없이도 서버에서 요청할 수 있게 지원해주며,
+   통신은 tcp포트 80/443을 통해 접속하므로 추가 방화벽 오픈없이 web으로 구현할 수 있다.
 </details>
 
 ### Socket.io와 WebSocket의 차이에 대해 설명하세요.
 <details>
    <summary> Answer </summary>
 <br />
-   
+   WebSocket은 HTML5 표준 프로토콜이고, Socket.io는 양방향 송신을 가능하게하는 library이다.
+   WebSocket프로토콜을 지원하지 않는 오래된 브라우저나 클라이언트가 브라우저가 아닐경우 Socket.io를 이용하여 소켓통신을 구현한다.
 </details>
