@@ -153,3 +153,15 @@
 <br />
    
 </details>
+
+### XSS와 CSRF의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+</details>
+
+### 해싱과 암호화의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+</details>
