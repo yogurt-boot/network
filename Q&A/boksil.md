@@ -141,3 +141,17 @@
    WebSocket은 HTML5 표준 프로토콜이고, Socket.io는 양방향 송신을 가능하게하는 library이다.
    WebSocket프로토콜을 지원하지 않는 오래된 브라우저나 클라이언트가 브라우저가 아닐경우 Socket.io를 이용하여 소켓통신을 구현한다.
 </details>
+
+### XSS와 CSRF의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+</details>
+
+### 해싱과 암호화의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+</details>
+
+
