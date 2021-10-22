@@ -160,3 +160,15 @@ IP 주소를 사람이 인지하기 쉬운 형태(영어, 한글 등)로 변환�
 <br />
    
 </details>
+
+### XSS와 CSRF의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+</details>
+
+### 해싱과 암호화의 차이에 대해 설명하세요.
+<details>
+   <summary> Answer </summary>
+<br />
+</details>
