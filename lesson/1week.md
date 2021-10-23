@@ -105,7 +105,7 @@ RFC2068 → RFC2616
   ex) 애플리케이션은 애플리케이션만 고려하면 되고,
          메시지 전달 루트나 전달이 잘 되는지 여부는 고려하지 않아도 된다.
 
-![다운로드.png](images/1weeek/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+![다운로드.png](images/1week/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
 
 **애플리케이션 계층**
 
@@ -138,9 +138,9 @@ RFC2068 → RFC2616
 
 ## TCP/IP 통신의 흐름
 
-![download.png](images/1weeek/download.png)
+![download.png](images/1week/download.png)
 
-![KakaoTalk_Photo_2021-09-04-23-24-51.jpeg](images/1weeek/KakaoTalk_Photo_2021-09-04-23-24-51.jpeg)
+![KakaoTalk_Photo_2021-09-04-23-24-51.jpeg](images/1week/KakaoTalk_Photo_2021-09-04-23-24-51.jpeg)
 
 ### HTTP의 경우
 
@@ -218,7 +218,7 @@ TCP가 상대에게 확실하게 데이터를 보내기 위해 사용하는 방�
 
 통신이 도중에 끊기면 TCP는 패킷을 재전송한다.
 
-![Screen Shot 2021-09-05 at 12.20.03 AM.png](images/1weeek/Screen_Shot_2021-09-05_at_12.20.03_AM.png)
+![Screen Shot 2021-09-05 at 12.20.03 AM.png](images/1week/Screen_Shot_2021-09-05_at_12.20.03_AM.png)
 
 [TCP 3 way-handshake(SYN, ACK)](https://websecurity.tistory.com/93)
 
@@ -286,11 +286,11 @@ http://user:pass@www.example.com:80/dir/index.html?uid=1#ch1
 
 - Answer
 
-  ![OSI_7_계층.jpeg](images/1weeek/OSI_7_%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC.jpeg)
+  ![OSI_7_계층.jpeg](images/1week/OSI_7_%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC.jpeg)
 
-  ![Screen Shot 2021-09-05 at 12.49.40 AM.png](images/1weeek/Screen_Shot_2021-09-05_at_12.49.40_AM.png)
+  ![Screen Shot 2021-09-05 at 12.49.40 AM.png](images/1week/Screen_Shot_2021-09-05_at_12.49.40_AM.png)
 
-![다운로드.png](images/1weeek/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+![다운로드.png](images/1week/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
 
 ## **DNS에 대해서 설명하세요.**
 
@@ -316,9 +316,9 @@ http://user:pass@www.example.com:80/dir/index.html?uid=1#ch1
 
   =Recursive Query
 
-  ![download (1).png](images/1weeek/download_(1).png)
+  ![download (1).png](images/1week/download_(1).png)
 
-  ![download (2).png](images/1weeek/download_(2).png)
+  ![download (2).png](images/1week/download_(2).png)
 
   효율성을 높이기 위해 PC에서는 DNS Cache를 가지고 있다.
 
