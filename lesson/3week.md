@@ -232,4 +232,4 @@ HTTP 리퀘스트에 대한 처리 결과를 전달하는 코드이다.
 
 [tech-interview/network.md at master · WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview/blob/master/contents/network.md#cors%EB%9E%80)
 
-[CORS는 왜 이렇게 우리를 힘들게 하는걸까?](
+[CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
